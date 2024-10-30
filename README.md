@@ -37,7 +37,7 @@ git clone https://github.com/himen34/Java_Lab_5.git
 cd Java_Lab_5
 ```
 
-### 2. Build the project (this will also run unit tests):
+### 2. Build the project:
 
 ```bash
 mvn package
@@ -47,12 +47,6 @@ mvn package
 
 ```bash
 mvn clean compile exec:java
-```
-
-### 4. Run unit tests:
-
-```bash
-mvn test
 ```
 
 ## Requirements
